@@ -1,6 +1,7 @@
 # Hi, I'm Matthys Roux
 
-Data Science Honours student at Stellenbosch University and CERN/ATLAS-affiliated researcher working on machine learning for high-energy physics data.
+- Data Science Honours student at Stellenbosch University 
+- CERN/ATLAS-affiliated researcher working on machine learning for high-energy physics data.
 
 ## Focus Areas
 - Machine learning and anomaly detection
