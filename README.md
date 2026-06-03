@@ -6,7 +6,7 @@ Data Science Honours student at Stellenbosch University and CERN/ATLAS-affiliate
 - Machine learning and anomaly detection
 - Graph neural networks and particle-level modelling
 - Computer vision and LLM-based automation
-- Scientific computing, Linux workflows, and reproducible research
+- Scientific computing, Linux workflows, and research
 
 ## Featured Projects
 ### ATLAS Data GNN Project
@@ -23,6 +23,6 @@ Tech: Python, computer vision, LLM APIs, Android emulators, automation scripting
 Python · SQL · PyTorch · scikit-learn · pandas · NumPy · Linux · Git · Bash · Computer Vision · GNNs · LLMs
 
 ## Links
-- LinkedIn: [your link]
-- CV: [your PDF link]
-- Portfolio: [optional]
+- LinkedIn: [[your link](https://www.linkedin.com/in/matthys-roux-779611253/)]
+- CV: [your PDF link]https://www.linkedin.com/in/matthys-roux-779611253/
+- Portfolio: [[optional](https://www.linkedin.com/in/matthys-roux-779611253/)]
