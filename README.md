@@ -19,10 +19,27 @@ Commercial automation platform using computer vision, LLM decision logic, Androi
 
 Tech: Python, computer vision, LLM APIs, Android emulators, automation scripting
 
-## Technical Skills
-Python · SQL · PyTorch · scikit-learn · pandas · NumPy · Linux · Git · Bash · Computer Vision · GNNs · LLMs
+## TECHNICAL SKILLS
+
+**Programming Languages:** Python, SQL, Bash, R, C++, Java, JavaScript
+
+**Machine Learning & AI:** supervised learning, unsupervised learning, anomaly detection, graph neural networks, transformers, autoencoders, representation learning, model evaluation, cross-validation, classification, regression
+
+**Data Science & Statistics:** pandas, NumPy, scikit-learn, statistical modelling, data cleaning, exploratory data analysis, feature engineering, hypothesis testing, experiment design
+
+**Deep Learning Frameworks:** PyTorch, PyTorch Geometric, neural network training workflows, GPU-based model development
+
+**Data Visualisation & Reporting:** Matplotlib, Seaborn, Plotly, Jupyter notebooks, technical reporting, scientific visualisation
+
+**Databases & Data Management:** SQL, relational databases, PostgreSQL, MySQL, SQLite, data querying, database design fundamentals
+
+**Scientific & Research Computing:** Linux, Git, Bash scripting, remote computing environments, reproducible analysis, ROOT, Rucio, XRootD, LXPLUS
+
+**Infrastructure & Remote Development:** SSH, virtual server management, resource monitoring, remote workflow management, Linux server environments
+
+**Computer Vision & Automation:** image recognition, screen-state detection, emulator-based automation, scripted control workflows, LLM-based decision systems
+
+**Software & Productivity Tools:** GitHub, VS Code, LaTeX/Overleaf, Microsoft Office, Google Workspace
 
 ## Links
-- LinkedIn: [[your link](https://www.linkedin.com/in/matthys-roux-779611253/)]
-- CV: [your PDF link]https://www.linkedin.com/in/matthys-roux-779611253/
-- Portfolio: [[optional](https://www.linkedin.com/in/matthys-roux-779611253/)]
+- LinkedIn: [[🔗](https://www.linkedin.com/in/matthys-roux-779611253/)]
