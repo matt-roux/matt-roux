@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Matthys Roux
 
-<!--
-**matt-roux/matt-roux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Honours student at Stellenbosch University and CERN/ATLAS-affiliated researcher working on machine learning for high-energy physics data.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Machine learning and anomaly detection
+- Graph neural networks and particle-level modelling
+- Computer vision and LLM-based automation
+- Scientific computing, Linux workflows, and reproducible research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### ATLAS Data GNN Project
+Research project applying graph-based and particle-level machine learning methods to ATLAS high-energy physics data.
+
+Tech: Python, PyTorch, PyTorch Geometric, Linux, Git, ROOT, Rucio, XRootD
+
+### Computer Vision & LLM Automation Platform
+Commercial automation platform using computer vision, LLM decision logic, Android emulator workflows, and license-key access control.
+
+Tech: Python, computer vision, LLM APIs, Android emulators, automation scripting
+
+## Technical Skills
+Python · SQL · PyTorch · scikit-learn · pandas · NumPy · Linux · Git · Bash · Computer Vision · GNNs · LLMs
+
+## Links
+- LinkedIn: [your link]
+- CV: [your PDF link]
+- Portfolio: [optional]
