@@ -13,7 +13,7 @@
 ### Anomaly Detection using GNNs on ATLAS Data Project
 Research project in collaboration with the ATLAS Project team. Focused on applying graph-based and particle-level machine learning and anomaly detection methods to ATLAS high-energy physics data collected at the Large Hadron Collider.
 
-Tech: Python, PyTorch, PyTorch Geometric, Linux, Git, ROOT, Rucio, XRootD
+Tech: Python, PyTorch, PyTorch Geometric, HPC Management Skills, Linux, Git
 
 ### Computer Vision & LLM Automation Platform
 Commercial automation platform using computer vision, LLM decision logic, Android emulator workflows, and license-key access control.
