@@ -1,4 +1,4 @@
-# Hi, I'm Matthys Roux
+# Hi, I'm Matt Roux
 
 - Data Science Honours student at Stellenbosch University 
 - CERN/ATLAS-affiliated researcher working on machine learning for high-energy physics data.
