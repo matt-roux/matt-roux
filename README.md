@@ -10,8 +10,8 @@
 - Scientific computing, Linux workflows, and research
 
 ## Featured Projects
-### ATLAS Data GNN Project
-Research project applying graph-based and particle-level machine learning methods to ATLAS high-energy physics data.
+### Anomaly Detection using GNNs on ATLAS Data Project
+Research project in collaboration with the ATLAS Project team. Focused on applying graph-based and particle-level machine learning and anomaly detection methods to ATLAS high-energy physics data collected at the Large Hadron Collider.
 
 Tech: Python, PyTorch, PyTorch Geometric, Linux, Git, ROOT, Rucio, XRootD
 
