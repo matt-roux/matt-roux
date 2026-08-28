@@ -43,4 +43,4 @@ Tech: Python, computer vision, LLM APIs, Android emulators, automation scripting
 **Software & Productivity Tools:** GitHub, VS Code, LaTeX/Overleaf, Microsoft Office, Google Workspace
 
 ## Links
-- LinkedIn: [[🔗](https://www.linkedin.com/in/matthys-roux-779611253/)]
+- LinkedIn: [[🔗](https://www.linkedin.com/in/matt-roux-779611253)]
